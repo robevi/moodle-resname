@@ -10,6 +10,7 @@ $string['timeenrolled'] = 'time';
 $string['timestarted'] = 'Time Started';
 $string['firstname'] = 'First Name';
 $string['lastname'] = 'Last Name';
+$string['name'] = 'Name';
 $string['email'] = 'Email';
 $string['report_coursecompletion'] = 'report_coursecompletion';
 $string['form:firstname'] = 'report_coursecompletion';
@@ -47,6 +48,8 @@ $string['completionsection'] = 'Completion Section';
 $string['uncomplete'] = 'Uncompleted';
 $string['any'] = 'Any';
 $string['complete'] = 'Complete';
+
+$string['exportbutton'] = 'Export Button';
 
 $string['countstring'] = '{$a->filter} shown of total: {$a->total}';
 
